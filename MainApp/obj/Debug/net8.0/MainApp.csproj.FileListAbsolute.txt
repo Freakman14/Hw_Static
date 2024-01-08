@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache

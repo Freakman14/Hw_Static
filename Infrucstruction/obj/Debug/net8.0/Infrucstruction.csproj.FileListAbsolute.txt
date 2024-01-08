@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\bin\Debug\net8.0\Infrucstruction.deps.json
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\bin\Debug\net8.0\Infrucstruction.dll
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\bin\Debug\net8.0\Infrucstruction.pdb
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.AssemblyInfo.cs
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.csproj.CopyComplete
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.dll
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\refint\Infrucstruction.dll
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\Infrucstruction.pdb
+C:\Users\User\Desktop\IntefaceWeek\Generic_05.01.2024\Practice Static\Infrucstruction\obj\Debug\net8.0\ref\Infrucstruction.dll
